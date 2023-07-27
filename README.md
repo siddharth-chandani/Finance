@@ -1,6 +1,7 @@
 # CS50 Finance
 #### Intialization:
-• First Log into **code.cs50.io** and Upload this directory named "Finance". <br/>
+• Firstly, Click on the **drop-down** menu of ***Code*** button (in green color) and then click on **Download ZIP**. <br/>
+• Secondly, Log into **code.cs50.io** and Upload this directory named "Finance". <br/>
 • We’ll need to register for an ***API key*** in order to be able to query IEX’s data. To do so, follow these steps:<br/>
 1) Visit iexcloud.io/cloud-login#/register/.<br/>
 2) Select the “Individual” account type, then enter your name, email address, and a password, and click “Create account”.<br/>
