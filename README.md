@@ -1,4 +1,4 @@
-# CS50 Finance
+# Finance
 #### Intialization:
 • Firstly, Click on the **drop-down** menu of ***Code*** button (in green color) and then click on **Download ZIP**. <br/>
 • Secondly, Unzip it and log into **code.cs50.io** and Upload this directory named "Finance". <br/>
